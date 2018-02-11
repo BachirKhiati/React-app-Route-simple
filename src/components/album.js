@@ -7,7 +7,7 @@ const Album=(props)=>{
         if(albumlist){
             return albumlist.map((item,index)=>{
                    return(
-                       <img key={index} src={`/images/albums/${item.cover}.jpg`}/>
+                       <img key={index} src={`/images/albums/${item.cover}.jpg`} alt={`${item.cover}`}/>
                    )     
             })
         }

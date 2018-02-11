@@ -2,13 +2,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Scripts
 
 
+
+1.
 ### `npm install`
 
 
+2.
 ### `npm start`
 
-then
 
+3.
 ### `json-server --watch .\db.json --port 3004`
 
 

@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 1.
+### `npm install -g json-server`
 ### `npm install`
 
 
